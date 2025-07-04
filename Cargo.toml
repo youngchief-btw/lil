@@ -1,0 +1,8 @@
+[package]
+name = "lil"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+[[bin]]
+name = "lil"
